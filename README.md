@@ -1,2 +1,2 @@
-# My_website
+# my_website
 Trying something new
